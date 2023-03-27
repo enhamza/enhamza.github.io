@@ -12,7 +12,7 @@ main:
   - title: "Abbreviated vitæ"
     url: /Abbreviated vitæ/
         
-  #- title: "Gallery"
+  - title: "Gallery"
   #  url: /Gallery/
     
   #- title: "CV"
