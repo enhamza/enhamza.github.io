@@ -16,6 +16,7 @@ Upcoming Talks:
 ===============
 * Workshop on Mathematical modeling, Analysis and Approximation of Vehicular and Pedestrian Dynamics [Maathrafic](https://www.idpoisson.fr/workshop-maathrafic/), Tours, 5-8 June, 2023.
 * Graph Signal Processing Workshop [GSP](https://gspworkshop.org/), Oxford, 12-14 June, 2023.
+
 Posters:
 ======
 
