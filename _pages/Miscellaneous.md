@@ -19,7 +19,7 @@ Quotes:
 * <q> J'aimais et j'aime encore les mathématiques pour elles-même comme n'admettant pas l'hypocrisie et le vague, mes deux bêtes d'aversion </q> Stendhal.
 * <q> When someone seeks," said Siddhartha, "then it easily happens that his eyes see only the thing that he seeks, and he is able to find nothing, to take in nothing because he always thinks only about the thing he is seeking, because he has one goal, because he is obsessed with his goal. Seeking means: having a goal. But finding means: being free, being open, having no goal </q> H.Hesse.
 * <q> The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed </q> C.G.Jung.
-* <q> Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes </q> C.G.Jung
+* <q> Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes </q> C.G.Jung.
 
 
 Some links:
