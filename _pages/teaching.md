@@ -6,6 +6,13 @@ author_profile: true
 ---
 
 
+2023/2024:
+----------
+* Refresher in Matrix Analysis and Numerical Optimization: Master 2 MSIAM/MOSIG Data Science/etc. – Univ. Grenoble Alpes – (EN)
+Reminder in Matrix analysis and optimization.
+
+
+
 2017/2018:
 ---------
 * PDE constrained optimization, M2 (TP). Cours de [N.Igbida.](https://www.unilim.fr/pages_perso/noureddine.igbida/)
