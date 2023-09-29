@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Since september 2023, I am a maître e conférences in applied mathematics in the [LJK](https://www-ljk.imag.fr) lab at [Grenole INP-Ensimag](https://ensimag.grenoble-inp.fr/), where I am a member of the [DAO](https://dao-ljk.imag.fr/) team.
+Since september 2023, I am a maître de conférences in applied mathematics in the [LJK](https://www-ljk.imag.fr) lab at [Grenole INP-Ensimag](https://ensimag.grenoble-inp.fr/), where I am a member of the [DAO](https://dao-ljk.imag.fr/) team.
 
 ### Previous positions:
 * From 2022 to 2023, I was a postdoc in the [GREYC](https://www.greyc.fr/) lab at [ENSICAEN](https://www.ensicaen.fr/) working with [Jalal Fadili](https://fadili.users.greyc.fr/).
