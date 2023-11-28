@@ -12,7 +12,7 @@ author_profile: true
 * Tug of War games and PDEs on graphs with applications in image and high dimensional data processing, with [Y.Quéau](https://sites.google.com/view/yvainqueau) and [A.Elmoataz](https://elmoatazbill.users.greyc.fr/). Scientific Reports. [Journal Link](https://www.nature.com/articles/s41598-023-32354-5).
 * A primal-dual algorithm for computing Finsler distances and applications, with [Y.Quéau](https://sites.google.com/view/yvainqueau) and [A.Elmoataz](https://elmoatazbill.users.greyc.fr/). (in review). [HAL Link](https://hal.archives-ouvertes.fr/hal-03620343).
 * Robust risk management via multi-marginal optimal transport, with [Q.Mérigot](http://quentin.mrgt.fr/), [L.Nenna](https://lucanenna.github.io/) and [B.Pass](https://sites.ualberta.ca/~pass/). (submitted). [arXiv Link](https://arxiv.org/abs/2211.07694).
-* Prediction-Correction Pedestrian Flow by Means of Minimum Flow Problem, with [N.Igbida](https://www.unilim.fr/pages_perso/noureddine.igbida/) and G.Jradi. (To appear in Mathematical Models and Methods in Applied Sciences (M3AS) ). [HAL Link](https://hal.science/hal-03999852)-[arXiv Link](https://arxiv.org/abs/2302.11315) - [Journal Link](https://doi.org/10.1142/S0218202524500052).
+* Prediction-Correction Pedestrian Flow by Means of Minimum Flow Problem, with [N.Igbida](https://www.unilim.fr/pages_perso/noureddine.igbida/) and G.Jradi. (To appear in Mathematical Models and Methods in Applied Sciences (M3AS) ). [HAL Link](https://hal.science/hal-03999852)-[arXiv Link](https://arxiv.org/abs/2302.11315)-[Journal Link](https://doi.org/10.1142/S0218202524500052).
  
 
 Ongoing works
