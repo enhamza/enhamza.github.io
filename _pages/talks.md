@@ -14,7 +14,7 @@ Talks:
 * Workshop on Mathematical modeling, Analysis and Approximation of Vehicular and Pedestrian Dynamics [Maathrafic](https://www.idpoisson.fr/workshop-maathrafic/), Tours, 5-8 June, 2023.
 * Graph Signal Processing Workshop [GSP](https://gspworkshop.org/), Oxford, 12-14 June, 2023.
 * Journées EDP Augergne-Rhône-Alpes [JEARA](https://indico.math.cnrs.fr/event/10016/), Clermont-Ferrand, 9-10 November, 2023.
-* Séminaire DAO, Grenoble, 29 November, 2023.
+* Séminaire [DAO](https://sites.google.com/view/gorgeous-optim/program), Grenoble, 29 November, 2023.
 * Workshop Essaouira - EST, 30 November, 2023.
   
 Upcoming Talks:
