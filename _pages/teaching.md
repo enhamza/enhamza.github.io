@@ -17,7 +17,7 @@ Reminder in Matrix analysis and optimization. (To be updated).
 ## Analyse pour l'ingénieur: Ensimag - Alternance $1^\text{ère}$ année.
 Ce cours d'Analyse pour l'ingénieur à destination des élèves ingénieurs de l'Ensimag en altérence. Les notes de cours seront mises à jours au fur et à mesure. Des erreurs et coquilles peuvent exister, merci de me les signaler.
 
-* Notes de cours : [PDF](https://github.com/enhamza/files/Main.pdf).
+* Notes de cours : [PDF](https://enhamza.github.io/files/Main.pdf).
 
 2017/2018:
 ---------
