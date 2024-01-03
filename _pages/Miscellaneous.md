@@ -31,3 +31,5 @@ Some links:
 * [Le GdR Mathématiques de l’Optimisation et Applications](https://gdrmoa.math.cnrs.fr/)
 * [ Le portail math, site destiné à la communauté mathématique française](https://portail.math.cnrs.fr/)
 * [Images des Mathématiques](https://images.math.cnrs.fr/?lang=fr)
+* [Quanta Magazine](https://www.quantamagazine.org/)
+* [The Euler Archive](http://eulerarchive.maa.org/index.html)
