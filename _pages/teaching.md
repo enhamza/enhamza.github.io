@@ -19,6 +19,14 @@ Ce cours d'Analyse pour l'ingénieur à destination des élèves ingénieurs de 
 
 * Notes de cours : [PDF](https://enhamza.github.io/files/Main.pdf).
 
+## Variational methods applied to modelling (TD): 
+Master 1 AM - Univ. Grenoble Alpes & 2A-MMIS Ensimag.
+The course is given by [C.Jourdana](https://membres-ljk.imag.fr/Clement.Jourdana/index.html).
+* TD1: Refresher on Distributions:
+
+## Optimisation numerique (CM et TD)
+2A-MMIS-IF-G2 Ensimag.
+
 2017/2018:
 ---------
 * PDE constrained optimization, M2 (TP). Cours de [N.Igbida.](https://www.unilim.fr/pages_perso/noureddine.igbida/)
