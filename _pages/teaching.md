@@ -22,7 +22,7 @@ Ce cours d'Analyse pour l'ingénieur à destination des élèves ingénieurs de 
 ## Variational methods applied to modelling (TD): 
 Master 1 AM - Univ. Grenoble Alpes & 2A-MMIS Ensimag.
 The course is given by [C.Jourdana](https://membres-ljk.imag.fr/Clement.Jourdana/index.html).
-* TD1: Refresher on Distributions: [PDF](https://github.com/_teaching/td1.pdf).
+* TD1: Refresher on Distributions: [PDF](https://github.com/enhamza/enhamza.github.io/tree/main/_teaching/td1.pdf).
 
 ## Optimisation numerique (CM et TD)
 2A-MMIS-IF-G2 Ensimag.
