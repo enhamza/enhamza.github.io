@@ -1,4 +1,3 @@
-![image](https://github.com/enhamza/enhamza.github.io/assets/58520846/3664e789-3426-4a46-aaf9-c8cef658aaea)---
 layout: archive
 title: "Teaching"
 permalink: /teaching/
