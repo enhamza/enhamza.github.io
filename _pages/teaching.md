@@ -31,7 +31,7 @@ The course is given by [C.Jourdana](https://membres-ljk.imag.fr/Clement.Jourdana
 * Cours 1: Introduction et rappels.
 * Cours 2: Convexité [PDF](https://enhamza.github.io/files/CM2_cvx.pdf)
 
-- Quelques références:
++ Quelques références:
   
   	- J.-B. Hiriart-Urruty and C. Lemar ́echal. Fundamentals of Convex Analysis.
   	- S. Boyd and L. Vandenberghe. Convex optimization.
