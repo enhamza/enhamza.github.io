@@ -29,7 +29,9 @@ The course is given by [C.Jourdana](https://membres-ljk.imag.fr/Clement.Jourdana
 2A-MMIS-IF-G2 Ensimag.
 
 * Cours 1: Introduction et rappels.
-* Cours 2: Convexité [PDF](https://enhamza.github.io/files/CM2_cvx.pdf)
+* Cours 2: Convexité [PDF](https://enhamza.github.io/files/CM2_cvx.pdf).
+* TD 1: Rappels.
+* TD 2: Un peu de convexité [PDF](https://enhamza.github.io/files/TD2.pdf).
 
 * Quelques références:
   
@@ -38,7 +40,7 @@ The course is given by [C.Jourdana](https://membres-ljk.imag.fr/Clement.Jourdana
 
 2017/2018:
 ---------
-* PDE constrained optimization, M2 (TP). Cours de [N.Igbida.](https://www.unilim.fr/pages_perso/noureddine.igbida/)
+* PDE constrained optimization, M2 (TP). Cours de [N.Igbida.](https://www.unilim.fr/pages_perso/noureddine.igbida/).
 
 
 2018/2019:
