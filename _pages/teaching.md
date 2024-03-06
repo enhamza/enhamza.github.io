@@ -22,7 +22,7 @@ Ce cours d'Analyse pour l'ingénieur à destination des élèves ingénieurs de 
 ## Variational methods applied to modelling (TD): 
 Master 1 AM - Univ. Grenoble Alpes & 2A-MMIS Ensimag.
 The course is given by [C.Jourdana](https://membres-ljk.imag.fr/Clement.Jourdana/index.html).
-* TD1: Refresher on Distributions [PDF](https://enhamza.github.io/files/td1.pdf).
+* TD1: Refresher on Distributions [PDF](https://enhamza.github.io/files/td1.pdf). Some Hints: [PDF](https://enhamza.github.io/files/td1_hints.pdf).
 * TD2: Sobolev spaces [PDF](https://enhamza.github.io/files/td2.pdf).
 
 ## Optimisation numerique (CM et TD)
