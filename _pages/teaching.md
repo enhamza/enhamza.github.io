@@ -30,6 +30,7 @@ The course is given by [C.Jourdana](https://membres-ljk.imag.fr/Clement.Jourdana
 
 * Cours 1: Introduction et rappels.
 * Cours 2: Convexité [PDF](https://enhamza.github.io/files/CM2_cvx.pdf).
+* Cours 3: Méthode du gradient [PDF](https://enhamza.github.io/files/CM_DG.pdf).
 * TD 1: Rappels.
 * TD 2: Un peu de convexité [PDF](https://enhamza.github.io/files/TD2.pdf).
 
