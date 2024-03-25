@@ -24,6 +24,9 @@ Master 1 AM - Univ. Grenoble Alpes & 2A-MMIS Ensimag.
 The course is given by [C.Jourdana](https://membres-ljk.imag.fr/Clement.Jourdana/index.html).
 * TD1: Refresher on Distributions [PDF](https://enhamza.github.io/files/td1.pdf). Some Hints: [PDF](https://enhamza.github.io/files/td1_hints.pdf).
 * TD2: Sobolev spaces [PDF](https://enhamza.github.io/files/td2.pdf).
+* TD3: Variational formulations and Lax-Milgram theorem for one dimensional problems [PDF](https://enhamza.github.io/files/td3.pdf).
+* TD4: Variational formulations and Lax-Milgram theorem for multi-dimensional problems [PDF](https://enhamza.github.io/files/td4.pdf).
+
 
 ## Optimisation numerique (CM et TD)
 2A-MMIS-IF-G2 Ensimag.
