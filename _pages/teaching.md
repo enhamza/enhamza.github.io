@@ -26,6 +26,8 @@ The course is given by [C.Jourdana](https://membres-ljk.imag.fr/Clement.Jourdana
 * TD2: Sobolev spaces [PDF](https://enhamza.github.io/files/td2.pdf).
 * TD3: Variational formulations and Lax-Milgram theorem for one dimensional problems [PDF](https://enhamza.github.io/files/td3.pdf).
 * TD4: Variational formulations and Lax-Milgram theorem for multi-dimensional problems [PDF](https://enhamza.github.io/files/td4.pdf).
+* TD5: Unisolvent finite elements [PDF](https://enhamza.github.io/files/td5.pdf).
+* TD6: Variational approximation and finite elements [PDF](https://enhamza.github.io/files/td6.pdf).
 
 
 ## Optimisation numerique (CM et TD)
