@@ -16,6 +16,7 @@ Talks:
 * Journées EDP Augergne-Rhône-Alpes [JEARA](https://indico.math.cnrs.fr/event/10016/), Clermont-Ferrand, 9-10 November, 2023.
 * Séminaire [DAO](https://sites.google.com/view/gorgeous-optim/program), Grenoble, 29 November, 2023.
 * Workshop Essaouira - EST, 30 November, 2023.
+* Journées de l'ANR [StableProxies](https://projet.liris.cnrs.fr/stableproxies/#about), Grenoble, 11 April, 2024.
   
 Upcoming Talks:
 ===============
