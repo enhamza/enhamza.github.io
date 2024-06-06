@@ -20,6 +20,7 @@ Talks:
   
 Upcoming Talks:
 ===============
+* Séminaire [EDP](https://edp-ljk.imag.fr/), Grenoble, 27 Juin, 2024.
 
 
 Posters:
