@@ -21,6 +21,7 @@ Talks:
 Upcoming Talks:
 ===============
 * Séminaire [EDP](https://edp-ljk.imag.fr/), Grenoble, 27 Juin, 2024.
+* I Workshop on Optimal Control and Sweeping Processes [WOCSP](https://indico.math.cnrs.fr/event/12200/page/853-overview), Limoges, 1 July, 2024.
 
 
 Posters:
