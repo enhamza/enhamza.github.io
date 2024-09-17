@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-2023/2024:
+2023/2024 & 2024/2025:
 ----------
 ## Refresher in Matrix Analysis and Numerical Optimization: 
 Master 2 MSIAM/MOSIG Data Science/etc. – Univ. Grenoble Alpes – (EN)
