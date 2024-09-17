@@ -14,6 +14,11 @@ Reminder in Matrix analysis and optimization. (To be updated).
 
 * Practical session: [Github](https://github.com/enhamza/refresher).
 * Exercices: [Session 1](https://enhamza.github.io/files/Matrix.pdf) - [Session 2](https://enhamza.github.io/files/Optimization.pdf).
+* Useful links & references:
+  	- Horn, R. & Johnson, C.: Matrix analysis.
+  	- J.-B. Hiriart-Urruty and C. Lemaréchal. Fundamentals of Convex Analysis.
+  	- S. Boyd and L. Vandenberghe. Convex optimization.
+  	-  Bubeck, S.: Convex Optimization: Algorithms and Complexity [Link](https://arxiv.org/pdf/1405.4980).
 
 ## Analyse pour l'ingénieur: Ensimag - Alternance $1^\text{ère}$ année.
 Ce cours d'Analyse pour l'ingénieur à destination des élèves ingénieurs de l'Ensimag en altérence. Les notes de cours seront mises à jours au fur et à mesure. Des erreurs et coquilles peuvent exister, merci de me les signaler.
