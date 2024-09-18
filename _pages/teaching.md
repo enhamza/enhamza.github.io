@@ -15,6 +15,7 @@ Reminder in Matrix analysis and optimization. (To be updated).
 * Practical session: [Github](https://github.com/enhamza/refresher).
 * Exercices: [Session 1](https://enhamza.github.io/files/Matrix.pdf) - [Session 2](https://enhamza.github.io/files/Optimization.pdf).
 * Useful links & references:
+  
   	- Horn, R. & Johnson, C.: **Matrix analysis**.
   	- J.-B. Hiriart-Urruty and C. Lemaréchal. **Fundamentals of Convex Analysis**.
   	- S. Boyd and L. Vandenberghe. **Convex optimization**.
