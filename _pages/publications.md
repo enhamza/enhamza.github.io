@@ -13,7 +13,7 @@ author_profile: true
 * A primal-dual algorithm for computing Finsler distances and applications, with [Y.Quéau](https://sites.google.com/view/yvainqueau) and [A.Elmoataz](https://elmoatazbill.users.greyc.fr/). Calcolo. [Journal Link](https://link.springer.com/article/10.1007/s10092-024-00596-y)-[View-Only Version](https://rdcu.be/dRC68).
 * Robust risk management via multi-marginal optimal transport, with [Q.Mérigot](http://quentin.mrgt.fr/), [L.Nenna](https://lucanenna.github.io/) and [B.Pass](https://sites.ualberta.ca/~pass/). J. Optim. Theory Appl. [arXiv Link](https://arxiv.org/abs/2211.07694)-[Journal Link](https://link.springer.com/article/10.1007/s10957-024-02438-x).
 * Prediction-Correction Pedestrian Flow by Means of Minimum Flow Problem, with [N.Igbida](https://www.unilim.fr/pages_perso/noureddine.igbida/) and G.Jradi. Mathematical Models and Methods in Applied Sciences (M3AS). [HAL Link](https://hal.science/hal-03999852)-[arXiv Link](https://arxiv.org/abs/2302.11315)-[Journal Link](https://doi.org/10.1142/S0218202524500052).
-* Stochastic Monotone Inclusion with Closed Loop Distributions, with [J.Fadili](https://fadili.users.greyc.fr) and H.Attouch. Preprint. [HAL Link](https://hal.science/hal-04652333)-[arXiv Link](https://arxiv.org/abs/2407.13868).
+* Stochastic Monotone Inclusion with Closed Loop Distributions, with [J.Fadili](https://fadili.users.greyc.fr) and H.Attouch. To appear in Evolution Equations and Control Theory. [HAL Link](https://hal.science/hal-04652333)-[arXiv Link](https://arxiv.org/abs/2407.13868).
 
 
 Ongoing works
