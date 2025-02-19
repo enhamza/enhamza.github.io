@@ -40,7 +40,7 @@ The course is given by [C.Jourdana](https://membres-ljk.imag.fr/Clement.Jourdana
 ## Optimisation numerique (CM et TD)
 2A-MMIS-IF-G2 Ensimag.
 
-* Cours 1: Introduction et rappels.
+* Cours 1: Introduction et rappels [PDF](https://enhamza.github.io/files/TD1.pdf).
 * Cours 2: Convexité [PDF](https://enhamza.github.io/files/CM2_cvx.pdf).
 * Cours 3: Méthode du gradient [PDF](https://enhamza.github.io/files/CM_DG.pdf).
 * TD: [PDF](https://enhamza.github.io/files/TD-optim.pdf).
