@@ -44,6 +44,7 @@ The course is given by [C.Jourdana](https://membres-ljk.imag.fr/Clement.Jourdana
 * Cours 2: Convexité [PDF](https://enhamza.github.io/files/CM2_cvx.pdf).
 * Cours 3: Méthode du gradient [PDF](https://enhamza.github.io/files/CM_DG.pdf).
 * TD: [PDF](https://enhamza.github.io/files/TD-optim.pdf).
+* Examen 2024: [PDF](https://enhamza.github.io/files/Exam-S1-2024.pdf).
 
 * Quelques références:
   
