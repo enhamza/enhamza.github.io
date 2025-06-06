@@ -52,6 +52,7 @@ The course is given by [C.Jourdana](https://membres-ljk.imag.fr/Clement.Jourdana
   	- S. Boyd and L. Vandenberghe. Convex optimization.
   	- A.Beck. First-Order Methods in Optimization.
 
+## [CIMPA School](https://cimpa.este.ovh): Transport optimal, EDP et optimisation (21-30 may 2025 at Essaouira)
 2017/2018:
 ---------
 * PDE constrained optimization, M2 (TP). Cours de [N.Igbida.](https://www.unilim.fr/pages_perso/noureddine.igbida/).
