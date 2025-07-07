@@ -21,6 +21,8 @@ Talks:
 * I Workshop on Optimal Control and Sweeping Processes [WOCSP](https://indico.math.cnrs.fr/event/12200/page/853-overview), Limoges, 1 July, 2024.
 * [MOP](https://www.mop.uni-saarland.de/index.shtml) Workshop, Saarbrücken, 14 November, 2024.
 * Séminaire [DAO](https://sites.google.com/view/gorgeous-optim/program), Grenoble, 9 December, 2024.
+* [CIMPA](https://cimpa.este.ovh/), Essaouira, Morocco, 21-31 May, 2025.
+* Workshop on Optimization, Dynamics and Convex Analysis - [WODCA](https://sites.google.com/view/wodca2025/home), Aveiro, Portugal, 11-14 June, 2025.
   
 Upcoming Talks:
 ===============
