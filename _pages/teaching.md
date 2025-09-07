@@ -17,10 +17,10 @@ Ce cours présente une introduction aux domaines d'analyse convexe et de l'optim
 * TD3: Fonctions convexes [PDF](https://enhamza.github.io/files/TD3_baco.pdf).
 
 * Quelques références:
-  	- J.-B. Hiriart-Urruty and C. Lemaréchal. Fundamentals of Convex Analysis.
-  	- S. Boyd and L. Vandenberghe. Convex optimization.
-	- Yurii Nesterov. Lectures on Convex Optimization. Springer, 2018.
-  	- A.Beck. First-Order Methods in Optimization.
+  - J.-B. Hiriart-Urruty and C. Lemaréchal. Fundamentals of Convex Analysis.
+  - S. Boyd and L. Vandenberghe. Convex optimization.
+  - Yurii Nesterov. Lectures on Convex Optimization. Springer, 2018.
+  - A.Beck. First-Order Methods in Optimization.
 
  
 2023/2024 & 2024/2025:
