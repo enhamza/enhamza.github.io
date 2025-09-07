@@ -5,7 +5,24 @@ permalink: /teaching/
 author_profile: true
 ---
 
+2025/2026:
+----------
 
+## Bases d'analyse convexe et optimisation - 3MMBACO:
+
+Ce cours présente une introduction aux domaines d'analyse convexe et de l'optimisation, à destination des élèves ingénieurs de l'Ensimag en 1A. Les notes de cours seront mises à jours au fur et à mesure. Des erreurs et coquilles peuvent exister, merci de me les signaler.
+
+* TD1: Introduction et rappels [PDF](https://enhamza.github.io/files/TD1_baco.pdf).
+* TD2: Ensembles convexes [PDF](https://enhamza.github.io/files/TD2_baco.pdf).
+* TD3: Fonctions convexes [PDF](https://enhamza.github.io/files/TD3_baco.pdf).
+
+* Quelques références:
+  	- J.-B. Hiriart-Urruty and C. Lemaréchal. Fundamentals of Convex Analysis.
+  	- S. Boyd and L. Vandenberghe. Convex optimization.
+	- Yurii Nesterov. Lectures on Convex Optimization. Springer, 2018.
+  	- A.Beck. First-Order Methods in Optimization.
+
+ 
 2023/2024 & 2024/2025:
 ----------
 ## Refresher in Matrix Analysis and Numerical Optimization: 
