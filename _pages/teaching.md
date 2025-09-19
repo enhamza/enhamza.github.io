@@ -23,14 +23,14 @@ Ce cours présente une introduction aux domaines d'analyse convexe et de l'optim
   - A.Beck. First-Order Methods in Optimization.
 
  
-2023/2024 & 2024/2025:
+2023/2024 -- 2025/2026:
 ----------
 ## Refresher in Matrix Analysis and Numerical Optimization: 
 Master 2 MSIAM/MOSIG Data Science/etc. – Univ. Grenoble Alpes – (EN)
 Reminder in Matrix analysis and optimization. (To be updated).
 
 * Practical session: [Github](https://github.com/enhamza/refresher).
-* Exercices: [Session 1](https://enhamza.github.io/files/Matrix.pdf) - [Session 2](https://enhamza.github.io/files/Optimization.pdf).
+* Exercices: [Session 1](https://enhamza.github.io/files/Matrix_analysis.pdf) - [Session 2](https://enhamza.github.io/files/Optim.pdf).
 * Useful links & references:
   
   	- Horn, R. & Johnson, C.: Matrix analysis.
