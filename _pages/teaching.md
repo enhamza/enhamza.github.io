@@ -21,9 +21,10 @@ Ce cours présente une introduction aux domaines d'analyse convexe et de l'optim
 * Quelques références:
   - J.-B. Hiriart-Urruty and C. Lemaréchal. Fundamentals of Convex Analysis.
   - S. Boyd and L. Vandenberghe. Convex optimization.
-  - Yurii Nesterov. Lectures on Convex Optimization. Springer, 2018.
+  - Yurii Nesterov. Lectures on Convex Optimization. Springer.
   - A.Beck. First-Order Methods in Optimization.
   - R.T Rockafellar (1970). Convex Analysis, Princeton University Press.
+  - V.Soltan. Lectures on Convex Sets.
 
  
 2023/2024 -- 2025/2026:
