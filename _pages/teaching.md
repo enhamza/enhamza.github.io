@@ -41,11 +41,15 @@ Reminder in Matrix analysis and optimization. (To be updated).
   	- S. Boyd and L. Vandenberghe. Convex optimization.
   	- Bubeck, S.: Convex Optimization: Algorithms and Complexity [Link](https://arxiv.org/pdf/1405.4980).
 
+2023/2024 -- 2025/2026:
+----------
 ## Analyse pour l'ingénieur: Ensimag - Alternance $1^\text{ère}$ année.
 Ce cours d'Analyse pour l'ingénieur à destination des élèves ingénieurs de l'Ensimag en altérence. Les notes de cours seront mises à jours au fur et à mesure. Des erreurs et coquilles peuvent exister, merci de me les signaler.
 
 * Notes de cours : [PDF](https://enhamza.github.io/files/Main.pdf).
 
+2023/2024 -- 2024/2025:
+----------
 ## Variational methods applied to modelling (TD): 
 Master 1 AM - Univ. Grenoble Alpes & 2A-MMIS Ensimag.
 The course is given by [C.Jourdana](https://membres-ljk.imag.fr/Clement.Jourdana/index.html).
@@ -56,7 +60,8 @@ The course is given by [C.Jourdana](https://membres-ljk.imag.fr/Clement.Jourdana
 * TD5: Unisolvent finite elements [PDF](https://enhamza.github.io/files/VM/td5.pdf).
 * TD6: Variational approximation and finite elements [PDF](https://enhamza.github.io/files/VM/td6.pdf).
 
-
+2023/2024 -- 2025/2026:
+----------
 ## Optimisation numerique (CM et TD)
 2A-MMIS-IF-G2 Ensimag.
 
