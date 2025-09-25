@@ -12,8 +12,8 @@ author_profile: true
 
 Ce cours présente une introduction aux domaines d'analyse convexe et de l'optimisation, à destination des élèves ingénieurs de l'Ensimag en 1A. Les notes de cours seront mises à jours au fur et à mesure. Des erreurs et coquilles peuvent exister, merci de me les signaler.
 
-* Cours 1: Introduction et rappels [PDF](https://enhamza.github.io/files/BACP/chapitre1.pdf)
-* Cours 2: Ensembles convexes [PDF](https://enhamza.github.io/files/BACP/chapitre2.pdf)
+* Cours 1: Introduction et rappels [PDF](https://enhamza.github.io/files/BACO/chapitre1.pdf)
+* Cours 2: Ensembles convexes [PDF](https://enhamza.github.io/files/BACO/chapitre2.pdf)
 
 * TD1: Introduction et rappels [PDF](https://enhamza.github.io/files/BACO/TD1.pdf).
 * TD2: Ensembles convexes [PDF](https://enhamza.github.io/files/BACO/TD2.pdf).
