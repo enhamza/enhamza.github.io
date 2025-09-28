@@ -17,6 +17,7 @@ Ce cours présente une introduction aux domaines d'analyse convexe et de l'optim
 
 * TD1: Introduction et rappels [PDF](https://enhamza.github.io/files/BACO/TD1.pdf).
 * TD2: Ensembles convexes [PDF](https://enhamza.github.io/files/BACO/TD2.pdf).
+* TD2': Ensembles convexes [PDF](https://enhamza.github.io/files/BACO/TD2bis.pdf).
 
 * Quelques références:
   - J.-B. Hiriart-Urruty and C. Lemaréchal. Fundamentals of Convex Analysis.
