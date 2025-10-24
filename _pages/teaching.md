@@ -48,7 +48,7 @@ Les notes de cours seront mises à jour au fur et à mesure. Des erreurs ou coqu
 
 ---
 
-*Dernière mise à jour : *(ajoutez la date ici)
+*Dernière mise à jour : *(24/10/2025)
 
 
  
