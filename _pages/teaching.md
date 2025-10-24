@@ -96,7 +96,7 @@ Les notes seront mises à jour progressivement. N’hésitez pas à signaler les
 
 ## Variational Methods Applied to Modelling (TD)
 **Master 1 AM — Univ. Grenoble Alpes** & **2A-MMIS Ensimag**  
-Cours principal donné par [C. Jourdana](https://membres-ljk.imag.fr/Clement.Jourdana/index.html).
+The course is given by [C. Jourdana](https://membres-ljk.imag.fr/Clement.Jourdana/index.html).
 
 | TD | Thème | Document |
 |----|-------|---------|
@@ -120,7 +120,7 @@ Cours principal donné par [C. Jourdana](https://membres-ljk.imag.fr/Clement.Jou
 | TD | Exercices | [PDF](https://enhamza.github.io/files/TD-optim.pdf) |
 | Examen 2024 | Sujet | [PDF](https://enhamza.github.io/files/Exam-S1-2024.pdf) |
 
-**Références conseillées :**
+** Quelques références :**
 - J.-B. Hiriart-Urruty & C. Lemaréchal — *Fundamentals of Convex Analysis*
 - S. Boyd & L. Vandenberghe — *Convex Optimization*
 - A. Beck — *First-Order Methods in Optimization*
