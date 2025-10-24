@@ -14,11 +14,13 @@ Ce cours présente une introduction aux domaines d'analyse convexe et de l'optim
 
 * Cours 1: Introduction et rappels [PDF](https://enhamza.github.io/files/BACO/chapitre1.pdf).
 * Cours 2: Ensembles convexes [PDF](https://enhamza.github.io/files/BACO/chapitre2.pdf).
+* Cours 3: Fonctions convexes [PDF](https://enhamza.github.io/files/BACO/chapitre3.pdf)
 
 * TD1: Introduction et rappels [PDF](https://enhamza.github.io/files/BACO/TD1.pdf).
 * TD2: Ensembles convexes [PDF](https://enhamza.github.io/files/BACO/TD2.pdf).
 * TD2': Ensembles convexes [PDF](https://enhamza.github.io/files/BACO/TD2bis.pdf).
 * TD3: Fonctions convexes [PDF](https://enhamza.github.io/files/BACO/TD3.pdf).
+* TD3': Fonctions convexes [PDF](https://enhamza.github.io/files/BACO/TD3bis.pdf).
 
 
 * Quelques références:
