@@ -8,28 +8,48 @@ author_profile: true
 2025/2026:
 ----------
 
-## Bases d'analyse convexe et optimisation - 3MMBACO:
+# Bases d'analyse convexe et optimisation (3MMBACO)
 
-Ce cours présente une introduction aux domaines d'analyse convexe et de l'optimisation, à destination des élèves ingénieurs de l'Ensimag en 1A. Les notes de cours seront mises à jours au fur et à mesure. Des erreurs et coquilles peuvent exister, merci de me les signaler.
+Ce cours présente une introduction à l'analyse convexe et à l'optimisation, à destination des élèves ingénieurs de l'Ensimag (1A).  
+Les notes de cours seront mises à jour au fur et à mesure. Des erreurs ou coquilles peuvent exister — n'hésitez pas à les signaler.
 
-* Cours 1: Introduction et rappels [PDF](https://enhamza.github.io/files/BACO/chapitre1.pdf).
-* Cours 2: Ensembles convexes [PDF](https://enhamza.github.io/files/BACO/chapitre2.pdf).
-* Cours 3: Fonctions convexes [PDF](https://enhamza.github.io/files/BACO/chapitre3.pdf)
+---
 
-* TD1: Introduction et rappels [PDF](https://enhamza.github.io/files/BACO/TD1.pdf).
-* TD2: Ensembles convexes [PDF](https://enhamza.github.io/files/BACO/TD2.pdf).
-* TD2': Ensembles convexes [PDF](https://enhamza.github.io/files/BACO/TD2bis.pdf).
-* TD3: Fonctions convexes [PDF](https://enhamza.github.io/files/BACO/TD3.pdf).
-* TD3': Fonctions convexes [PDF](https://enhamza.github.io/files/BACO/TD3bis.pdf).
+## 📘 Notes de cours
 
+| Séance | Thème | Document |
+|-------|-------|----------|
+| Cours 1 | Introduction et rappels | [PDF](https://enhamza.github.io/files/BACO/chapitre1.pdf) |
+| Cours 2 | Ensembles convexes | [PDF](https://enhamza.github.io/files/BACO/chapitre2.pdf) |
+| Cours 3 | Fonctions convexes | [PDF](https://enhamza.github.io/files/BACO/chapitre3.pdf) |
 
-* Quelques références:
-  - J.-B. Hiriart-Urruty and C. Lemaréchal. Fundamentals of Convex Analysis.
-  - S. Boyd and L. Vandenberghe. Convex optimization.
-  - Yurii Nesterov. Lectures on Convex Optimization. Springer.
-  - A.Beck. First-Order Methods in Optimization.
-  - R.T Rockafellar (1970). Convex Analysis, Princeton University Press.
-  - V.Soltan. Lectures on Convex Sets.
+---
+
+## 📝 Travaux dirigés
+
+| TD | Thème | Document |
+|----|-------|----------|
+| TD1 | Introduction et rappels | [PDF](https://enhamza.github.io/files/BACO/TD1.pdf) |
+| TD2 | Ensembles convexes | [PDF](https://enhamza.github.io/files/BACO/TD2.pdf) |
+| TD2' | Ensembles convexes (complément) | [PDF](https://enhamza.github.io/files/BACO/TD2bis.pdf) |
+| TD3 | Fonctions convexes | [PDF](https://enhamza.github.io/files/BACO/TD3.pdf) |
+| TD3' | Fonctions convexes (complément) | [PDF](https://enhamza.github.io/files/BACO/TD3bis.pdf) |
+
+---
+
+## 📚 Références recommandées
+
+- J.-B. Hiriart-Urruty & C. Lemaréchal — *Fundamentals of Convex Analysis*.
+- S. Boyd & L. Vandenberghe — *Convex Optimization*.
+- Y. Nesterov — *Lectures on Convex Optimization*, Springer.
+- A. Beck — *First-Order Methods in Optimization*.
+- R. T. Rockafellar — *Convex Analysis*, Princeton University Press (1970).
+- V. Soltan — *Lectures on Convex Sets*.
+
+---
+
+*Dernière mise à jour : *(ajoutez la date ici)
+
 
  
 2023/2024 -- 2025/2026:
