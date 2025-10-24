@@ -37,7 +37,7 @@ Les notes de cours seront mises à jour au fur et à mesure. Des erreurs ou coqu
 
 ---
 
-## 📚 Références recommandées
+## 📚 Quelques références
 
 - J.-B. Hiriart-Urruty & C. Lemaréchal — *Fundamentals of Convex Analysis*.
 - S. Boyd & L. Vandenberghe — *Convex Optimization*.
@@ -51,6 +51,7 @@ Les notes de cours seront mises à jour au fur et à mesure. Des erreurs ou coqu
 *Dernière mise à jour : *(24/10/2025)
 
 
+ 
  
 2023/2024 -- 2025/2026:
 ----------
