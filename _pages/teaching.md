@@ -53,82 +53,87 @@ Les notes de cours seront mises à jour au fur et à mesure. Des erreurs ou coqu
 
  
  
-2023/2024 -- 2025/2026:
-----------
-## Refresher in Matrix Analysis and Numerical Optimization: 
-Master 2 MSIAM/MOSIG Data Science/etc. – Univ. Grenoble Alpes – (EN)
-Reminder in Matrix analysis and optimization. (To be updated).
+# Autres enseignements (2023/2024 — 2025/2026)
 
-* Practical session: [Github](https://github.com/enhamza/refresher).
-* Exercices: [Session 1](https://enhamza.github.io/files/Matrix_analysis.pdf) - [Session 2](https://enhamza.github.io/files/Optim.pdf).
-* Useful links & references:
-  
-  	- Horn, R. & Johnson, C.: Matrix analysis.
-  	- J.-B. Hiriart-Urruty and C. Lemaréchal. Fundamentals of Convex Analysis.
-  	- S. Boyd and L. Vandenberghe. Convex optimization.
-  	- Bubeck, S.: Convex Optimization: Algorithms and Complexity [Link](https://arxiv.org/pdf/1405.4980).
+---
 
-2023/2024 -- 2025/2026:
-----------
-## Analyse pour l'ingénieur: Ensimag - Alternance $1^\text{ère}$ année.
-Ce cours d'Analyse pour l'ingénieur à destination des élèves ingénieurs de l'Ensimag en altérence. Les notes de cours seront mises à jours au fur et à mesure. Des erreurs et coquilles peuvent exister, merci de me les signaler.
+## Refresher in Matrix Analysis and Numerical Optimization
+**Master 2 MSIAM / MOSIG / Data Science**, Univ. Grenoble Alpes — *(EN)*  
+Reminder in Matrix Analysis and Optimization (to be updated).
 
-* Notes de cours : [PDF](https://enhamza.github.io/files/Main.pdf).
+| Ressource | Lien |
+|----------|------|
+| Practical session | https://github.com/enhamza/refresher |
+| Exercises | [Session 1](https://enhamza.github.io/files/Matrix_analysis.pdf) · [Session 2](https://enhamza.github.io/files/Optim.pdf) |
 
-2023/2024 -- 2024/2025:
-----------
-## Variational methods applied to modelling (TD): 
-Master 1 AM - Univ. Grenoble Alpes & 2A-MMIS Ensimag.
-The course is given by [C.Jourdana](https://membres-ljk.imag.fr/Clement.Jourdana/index.html).
-* TD1: Refresher on Distributions [PDF](https://enhamza.github.io/files/VM/td1.pdf). Some Hints: [PDF](https://enhamza.github.io/files/VM/td1_hints.pdf).
-* TD2: Sobolev spaces [PDF](https://enhamza.github.io/files/VM/td2.pdf).
-* TD3: Variational formulations and Lax-Milgram theorem for one dimensional problems [PDF](https://enhamza.github.io/files/VM/td3.pdf).
-* TD4: Variational formulations and Lax-Milgram theorem for multi-dimensional problems [PDF](https://enhamza.github.io/files/VM/td4.pdf).
-* TD5: Unisolvent finite elements [PDF](https://enhamza.github.io/files/VM/td5.pdf).
-* TD6: Variational approximation and finite elements [PDF](https://enhamza.github.io/files/VM/td6.pdf).
+**Useful references:**
+- Horn & Johnson — *Matrix Analysis*
+- J.-B. Hiriart-Urruty & C. Lemaréchal — *Fundamentals of Convex Analysis*
+- S. Boyd & L. Vandenberghe — *Convex Optimization*
+- S. Bubeck — *Convex Optimization: Algorithms and Complexity* ([PDF](https://arxiv.org/pdf/1405.4980))
 
-2023/2024 -- 2025/2026:
-----------
-## Optimisation numerique (CM et TD)
-2A-MMIS-IF-G2 Ensimag.
+---
 
-* Cours 1: Introduction et rappels [PDF](https://enhamza.github.io/files/TD1.pdf).
-* Cours 2: Convexité [PDF](https://enhamza.github.io/files/CM2_cvx.pdf).
-* Cours 3: Méthode du gradient [PDF](https://enhamza.github.io/files/CM_DG.pdf).
-* TD: [PDF](https://enhamza.github.io/files/TD-optim.pdf).
-* Examen 2024: [PDF](https://enhamza.github.io/files/Exam-S1-2024.pdf).
+## Analyse pour l'ingénieur
+**Ensimag — Alternance 1ère année**
 
-* Quelques références:
-  
-  	- J.-B. Hiriart-Urruty and C. Lemaréchal. Fundamentals of Convex Analysis.
-  	- S. Boyd and L. Vandenberghe. Convex optimization.
-  	- A.Beck. First-Order Methods in Optimization.
+Ce cours d’Analyse pour l’ingénieur est destiné aux élèves de l’Ensimag en alternance.  
+Les notes seront mises à jour progressivement. N’hésitez pas à signaler les coquilles.
 
-## [CIMPA School](https://cimpa.este.ovh): Transport optimal, EDP et optimisation (21-30 may 2025 at Essaouira)
-2017/2018:
----------
-* PDE constrained optimization, M2 (TP). Cours de [N.Igbida.](https://www.unilim.fr/pages_perso/noureddine.igbida/).
+| Document | Lien |
+|---------|------|
+| Notes de cours | [PDF](https://enhamza.github.io/files/Main.pdf) |
 
+---
 
-2018/2019:
-----------
-	
-* Élements d'analyse, L1. (TD).
-* Algèbre linéaire I, L1. (TD, TP).
-* Niveau M2: PDE constrained optimization (TP).
+## Variational Methods Applied to Modelling (TD)
+**Master 1 AM — Univ. Grenoble Alpes** & **2A-MMIS Ensimag**  
+Cours principal donné par [C. Jourdana](https://membres-ljk.imag.fr/Clement.Jourdana/index.html).
 
-2019/2020:
----------
+| TD | Thème | Document |
+|----|-------|---------|
+| TD1 | Refresher on Distributions | [PDF](https://enhamza.github.io/files/VM/td1.pdf) — Hints: [PDF](https://enhamza.github.io/files/VM/td1_hints.pdf) |
+| TD2 | Sobolev spaces | [PDF](https://enhamza.github.io/files/VM/td2.pdf) |
+| TD3 | Variational formulations & Lax–Milgram (1D) | [PDF](https://enhamza.github.io/files/VM/td3.pdf) |
+| TD4 | Variational formulations & Lax–Milgram (Multi-D) | [PDF](https://enhamza.github.io/files/VM/td4.pdf) |
+| TD5 | Unisolvent finite elements | [PDF](https://enhamza.github.io/files/VM/td5.pdf) |
+| TD6 | Variational approximation & finite elements | [PDF](https://enhamza.github.io/files/VM/td6.pdf) |
 
-* Élements d'analyse, L1. (TD).
-* Algèbre linéaire I, L1. (TD, TP).
-* PDE constrained optimization, M2 (TP).
-* Analyse numérique, L3 (TP). Cours de [F.Silva](https://www.unilim.fr/pages_perso/francisco.silva/).
+---
 
-2020/2021:
-----------
+## Optimisation numérique (CM + TD)
+**Ensimag — 2A MMIS / IF / G2**
 
-* Bases mathématiques pour les sciences, L1.
-* Calcul algébrique, L1.
-* Algèbre linéaire II, L2. (TD).
-* Probabilités, L2 (TD,TP). Cours de [S.Naldi](https://www.unilim.fr/pages_perso/simone.naldi/).
+| Séance | Thème | Document |
+|--------|-------|----------|
+| Cours 1 | Introduction et rappels | [PDF](https://enhamza.github.io/files/TD1.pdf) |
+| Cours 2 | Convexité | [PDF](https://enhamza.github.io/files/CM2_cvx.pdf) |
+| Cours 3 | Méthode du gradient | [PDF](https://enhamza.github.io/files/CM_DG.pdf) |
+| TD | Exercices | [PDF](https://enhamza.github.io/files/TD-optim.pdf) |
+| Examen 2024 | Sujet | [PDF](https://enhamza.github.io/files/Exam-S1-2024.pdf) |
+
+**Références conseillées :**
+- J.-B. Hiriart-Urruty & C. Lemaréchal — *Fundamentals of Convex Analysis*
+- S. Boyd & L. Vandenberghe — *Convex Optimization*
+- A. Beck — *First-Order Methods in Optimization*
+
+---
+
+## CIMPA School: Transport Optimal, EDP et Optimisation
+**Essaouira, 21–30 mai 2025**  
+https://cimpa.este.ovh
+
+---
+
+## Enseignements antérieurs
+
+### 2017/2018
+- PDE constrained optimization (M2, TP), avec [N. Igbida](https://www.unilim.fr/pages_perso/noureddine.igbida/)
+
+### 2018/2019 — 2020/2021
+- Éléments d’analyse (L1, TD)
+- Algèbre linéaire I & II (L1/L2, TD/TP)
+- Probabilités (L2, TD/TP), cours de [S. Naldi](https://www.unilim.fr/pages_perso/simone.naldi/)
+- Analyse numérique (L3, TP), cours de [F. Silva](https://www.unilim.fr/pages_perso/francisco.silva/)
+- PDE constrained optimization (M2, TP)
+
