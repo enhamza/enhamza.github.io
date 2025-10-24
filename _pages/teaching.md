@@ -5,11 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<p align="center">
-  <img src="https://enhamza.github.io/images/UGA.png" alt="Université Grenoble Alpes (UGA)" height="60" style="margin:0 20px;" />
-  <img src="https://enhamza.github.io/images/inp.png" alt="Grenoble INP - UGA" height="60" style="margin:0 20px;" />
-  <img src="https://enhamza.github.io/images/Ensimag.png" alt="Ensimag, Grenoble INP - UGA" height="60" style="margin:0 20px;" />
-</p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+  <img src="https://enhamza.github.io/images/UGA.png" alt="UGA" height="60" />
+  <img src="https://enhamza.github.io/images/inp.png" alt="Grenoble INP" height="60" />
+  <img src="https://enhamza.github.io/images/Ensimag.png" alt="Ensimag" height="60" />
+</div>
+
 
 
 
