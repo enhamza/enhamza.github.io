@@ -30,6 +30,7 @@ Les notes de cours seront mises à jour au fur et à mesure. Des erreurs ou coqu
 | Cours 1 | Introduction et rappels | [PDF](https://enhamza.github.io/files/BACO/chapitre1.pdf) |
 | Cours 2 | Ensembles convexes | [PDF](https://enhamza.github.io/files/BACO/chapitre2.pdf) |
 | Cours 3 | Fonctions convexes | [PDF](https://enhamza.github.io/files/BACO/chapitre3.pdf) |
+| Cours 4 | Introduction à l'optimisation convexe | [PDF](https://enhamza.github.io/files/BACO/chapitre4.pdf) |
 
 ---
 
@@ -42,7 +43,7 @@ Les notes de cours seront mises à jour au fur et à mesure. Des erreurs ou coqu
 | TD2' | Ensembles convexes (complément) | [PDF](https://enhamza.github.io/files/BACO/TD2bis.pdf) |
 | TD3 | Fonctions convexes | [PDF](https://enhamza.github.io/files/BACO/TD3.pdf) |
 | TD3' | Fonctions convexes (complément) | [PDF](https://enhamza.github.io/files/BACO/TD3bis.pdf) |
-| TD3' | Optimisation convexe | [PDF](https://enhamza.github.io/files/BACO/TD4.pdf) |
+| TD4 | Optimisation convexe | [PDF](https://enhamza.github.io/files/BACO/TD4.pdf) |
 
 ---
 
@@ -57,7 +58,7 @@ Les notes de cours seront mises à jour au fur et à mesure. Des erreurs ou coqu
 
 ---
 
-*Dernière mise à jour : *(24/10/2025)
+*Dernière mise à jour : *(20/11/2025)
 
 
  
