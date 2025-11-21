@@ -34,5 +34,5 @@ Posters:
 
 * Conférence: [Optimization on measure spaces](https://perso.math.univ-toulouse.fr/oms/conference-optimization-on-measures-spaces/), Toulouse, 2019.
 * Workshop des doctorant [XLIM](https://www.xlim.fr), 2019.
-* Graph Signal Processing Workshop GSP, Oxford, 12-14 June, 2023 - [Poster](https://enhamza.github.io/files/poster_tow_com.pdf)
+* Graph Signal Processing Workshop GSP, Oxford, 12-14 June, 2023 - [Poster](https://enhamza.github.io/files/posters/tow_poster.pdf)
 
