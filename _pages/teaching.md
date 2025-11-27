@@ -44,6 +44,7 @@ Les notes de cours seront mises à jour au fur et à mesure. Des erreurs ou coqu
 | TD3 | Fonctions convexes | [PDF](https://enhamza.github.io/files/BACO/TD3.pdf) |
 | TD3' | Fonctions convexes (complément) | [PDF](https://enhamza.github.io/files/BACO/TD3bis.pdf) |
 | TD4 | Optimisation convexe | [PDF](https://enhamza.github.io/files/BACO/TD4.pdf) |
+| TD5 | Méthode du gradient | [PDF](https://enhamza.github.io/files/BACO/TD5.pdf) |
 
 ---
 
@@ -58,7 +59,7 @@ Les notes de cours seront mises à jour au fur et à mesure. Des erreurs ou coqu
 
 ---
 
-*Dernière mise à jour : *(20/11/2025)
+*Dernière mise à jour : *(27/11/2025)
 
 
  
