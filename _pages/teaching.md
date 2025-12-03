@@ -50,7 +50,7 @@ Les notes de cours seront mises à jour au fur et à mesure. Des erreurs ou coqu
 
 ## 📝 Travaux pratiques
 
-| TP | [Méthodes d'optimisation] (https://github.com/enhamza/TP-BACO) |
+| TP | [Méthodes d'optimisation](https://github.com/enhamza/TP-BACO) |
 
 ---
 
