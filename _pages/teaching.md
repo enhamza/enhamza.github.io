@@ -48,6 +48,12 @@ Les notes de cours seront mises à jour au fur et à mesure. Des erreurs ou coqu
 
 ---
 
+## 📝 Travaux pratiques
+
+| TP | https://github.com/enhamza/TP-BACO |
+
+---
+
 ## 📚 Quelques références
 
 - J.-B. Hiriart-Urruty & C. Lemaréchal — *Fundamentals of Convex Analysis*.
