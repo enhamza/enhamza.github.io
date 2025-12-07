@@ -31,6 +31,8 @@ Les notes de cours seront mises à jour au fur et à mesure. Des erreurs ou coqu
 | Cours 2 | Ensembles convexes | [PDF](https://enhamza.github.io/files/BACO/chapitre2.pdf) |
 | Cours 3 | Fonctions convexes | [PDF](https://enhamza.github.io/files/BACO/chapitre3.pdf) |
 | Cours 4 | Introduction à l'optimisation convexe | [PDF](https://enhamza.github.io/files/BACO/chapitre4.pdf) |
+| Cours 5 | Algorithmes d'optimisation | [PDF](https://enhamza.github.io/files/BACO/chapitre5.pdf) |
+
 
 ---
 
