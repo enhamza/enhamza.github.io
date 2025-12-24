@@ -68,6 +68,25 @@ Les notes complètes du cours sont disponibles dans le document PDF : [Bases d'a
 
 ---
 
+
+---
+
+## Analyse pour l'ingénieur
+**Ensimag — Alternance 1ère année**
+
+Ce cours d’Analyse pour l’ingénieur est destiné aux élèves de l’Ensimag en alternance.  
+Les notes seront mises à jour progressivement. N’hésitez pas à signaler les coquilles.
+
+## 📘 Notes de cours
+
+| Séance | Thème | Document |
+|-------|-------|----------|
+| Cours 1 | Espaces vectoriels | [PDF](https://enhamza.github.io/files/An-Alt/chapitre1.pdf) |
+
+
+
+---
+
 *Dernière mise à jour : *(24/12/2025)
 
 
@@ -100,9 +119,13 @@ Reminder in Matrix Analysis and Optimization (to be updated).
 Ce cours d’Analyse pour l’ingénieur est destiné aux élèves de l’Ensimag en alternance.  
 Les notes seront mises à jour progressivement. N’hésitez pas à signaler les coquilles.
 
-| Document | Lien |
-|---------|------|
-| Notes de cours | [PDF](https://enhamza.github.io/files/Main.pdf) |
+## 📘 Notes de cours
+
+| Séance | Thème | Document |
+|-------|-------|----------|
+| Cours 1 | Espaces vectoriels | [PDF](https://enhamza.github.io/files/An-Alt/chapitre1.pdf) |
+
+
 
 ---
 
