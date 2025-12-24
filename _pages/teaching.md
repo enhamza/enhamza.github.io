@@ -33,7 +33,7 @@ Les notes de cours seront mises à jour au fur et à mesure. Des erreurs ou coqu
 | Cours 4 | Introduction à l'optimisation convexe | [PDF](https://enhamza.github.io/files/BACO/chapitre4.pdf) |
 | Cours 5 | Algorithmes d'optimisation | [PDF](https://enhamza.github.io/files/BACO/chapitre5.pdf) |
 
-Les notes complètes sont disponibles [ici](https://enhamza.github.io/files/BACO/lectures.pdf).
+Les notes complètes du cours sont disponibles dans le document PDF : [Bases d'analyse convexe et optimisation](https://enhamza.github.io/files/BACO/lectures.pdf).
 
 ---
 
