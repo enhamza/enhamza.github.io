@@ -69,7 +69,7 @@ Les notes complètes du cours sont disponibles dans le document PDF : [Bases d'a
 ---
 
 
-## Analyse pour l'ingénieur
+# Analyse pour l'ingénieur
 **Ensimag — Alternance 1ère année**
 
 Ce cours d’Analyse pour l’ingénieur est destiné aux élèves de l’Ensimag en alternance.  
