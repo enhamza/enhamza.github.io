@@ -79,13 +79,13 @@ Les notes seront mises à jour progressivement. N’hésitez pas à signaler les
 
 | Séance | Thème | Document |
 |-------|-------|----------|
-| Cours 1 | Espaces vectoriels | [PDF](https://enhamza.github.io/files/An-Alt/chapitre1.pdf) |
+| Cours | Espaces vectoriels et analyse matricielle | [PDF](https://enhamza.github.io/files/An-Alt/lectures-alt.pdf) |
 
 
 
 ---
 
-*Dernière mise à jour : *(24/12/2025)
+*Dernière mise à jour : *(02/02/2026)
 
 
  
