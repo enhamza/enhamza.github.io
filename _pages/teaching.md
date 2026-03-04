@@ -84,8 +84,25 @@ Les notes seront mises à jour progressivement. N’hésitez pas à signaler les
 
 
 ---
+## Optimisation numérique (CM + TD)
+**Ensimag — 2A MMIS / IF / G2**
 
-*Dernière mise à jour : *(02/02/2026)
+## 📝 Travaux dirigés
+
+| TD | Thème | Document |
+|----|-------|----------|
+| TD0 | Introduction et rappels | [PDF](https://enhamza.github.io/files/optim2A/TD0_ON.pdf) |
+| TD1 | Ensembles convexes | [PDF](https://enhamza.github.io/files/optim2A/TD1_ON.pdf) |
+| TD2 | Fonctions convexes | [PDF](https://enhamza.github.io/files/optim2A/TD2_ON.pdf) |
+
+
+** Quelques références :**
+- J.-B. Hiriart-Urruty & C. Lemaréchal — *Fundamentals of Convex Analysis*
+- S. Boyd & L. Vandenberghe — *Convex Optimization*
+- A. Beck — *First-Order Methods in Optimization*
+
+---
+*Dernière mise à jour : *(04/03/2026)
 
 
  
@@ -127,23 +144,6 @@ The course is given by [C. Jourdana](https://membres-ljk.imag.fr/Clement.Jourdan
 
 ---
 
-## Optimisation numérique (CM + TD)
-**Ensimag — 2A MMIS / IF / G2**
-
-| Séance | Thème | Document |
-|--------|-------|----------|
-| Cours 1 | Introduction et rappels | [PDF](https://enhamza.github.io/files/TD1.pdf) |
-| Cours 2 | Convexité | [PDF](https://enhamza.github.io/files/CM2_cvx.pdf) |
-| Cours 3 | Méthode du gradient | [PDF](https://enhamza.github.io/files/CM_DG.pdf) |
-| TD | Exercices | [PDF](https://enhamza.github.io/files/TD-optim.pdf) |
-| Examen 2024 | Sujet | [PDF](https://enhamza.github.io/files/Exam-S1-2024.pdf) |
-
-** Quelques références :**
-- J.-B. Hiriart-Urruty & C. Lemaréchal — *Fundamentals of Convex Analysis*
-- S. Boyd & L. Vandenberghe — *Convex Optimization*
-- A. Beck — *First-Order Methods in Optimization*
-
----
 
 ## CIMPA School: Transport Optimal, EDP et Optimisation
 **Essaouira, 21–30 mai 2025**  
