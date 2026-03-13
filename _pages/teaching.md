@@ -84,7 +84,7 @@ Les notes seront mises à jour progressivement. N’hésitez pas à signaler les
 
 
 ---
-## Optimisation numérique (4MMON6)
+# Optimisation numérique (4MMON6)
 **Ensimag — 2A MMIS / IF / G2**
 
 ## 📝 Travaux dirigés
@@ -94,8 +94,10 @@ Les notes seront mises à jour progressivement. N’hésitez pas à signaler les
 | TD0 | Introduction et rappels | [PDF](https://enhamza.github.io/files/optim2A/TD0_ON.pdf) |
 | TD1 | Ensembles convexes | [PDF](https://enhamza.github.io/files/optim2A/TD1_ON.pdf) |
 | TD2 | Fonctions convexes | [PDF](https://enhamza.github.io/files/optim2A/TD2_ON.pdf) |
+| TD3 | Optimisation convexe | [PDF](https://enhamza.github.io/files/optim2A/TD3_ON.pdf) |
 
-Les notes complètes du cours sont disponibles ici : [Bases d'analyse convexe et optimisation](https://enhamza.github.io/files/BACO/index.html).
+
+Les notes complètes du cours sont disponibles ici : [Optimisation numérique](https://enhamza.github.io/files/optim2A/index.html).
 
 ** Quelques références :**
 - J.-B. Hiriart-Urruty & C. Lemaréchal — *Fundamentals of Convex Analysis*
