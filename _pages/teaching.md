@@ -16,6 +16,44 @@ author_profile: true
 2025/2026:
 ----------
 
+---
+# Optimisation numérique (4MMON6)
+**Ensimag — 2A MMIS / IF / G2**
+
+## 📝 Travaux dirigés
+
+| TD | Thème | Document |
+|----|-------|----------|
+| TD0 | Introduction et rappels | [PDF](https://enhamza.github.io/files/optim2A/TD0_ON.pdf) |
+| TD1 | Ensembles convexes | [PDF](https://enhamza.github.io/files/optim2A/TD1_ON.pdf) |
+| TD2 | Fonctions convexes | [PDF](https://enhamza.github.io/files/optim2A/TD2_ON.pdf) |
+| TD3 | Optimisation convexe | [PDF](https://enhamza.github.io/files/optim2A/TD3_ON.pdf) |
+
+
+Les notes complètes du cours sont disponibles ici : [Optimisation numérique](https://enhamza.github.io/files/optim2A/index.html).
+
+** Quelques références :**
+- J.-B. Hiriart-Urruty & C. Lemaréchal — *Fundamentals of Convex Analysis*
+- S. Boyd & L. Vandenberghe — *Convex Optimization*
+- A. Beck — *First-Order Methods in Optimization*
+
+---
+
+# Analyse pour l'ingénieur
+**Ensimag — Alternance 1ère année**
+
+Ce cours d’Analyse pour l’ingénieur est destiné aux élèves de l’Ensimag en alternance.  
+Les notes seront mises à jour progressivement. N’hésitez pas à signaler les coquilles.
+
+## 📘 Notes de cours
+
+| Séance | Thème | Document |
+|-------|-------|----------|
+| Cours | Espaces vectoriels et analyse matricielle | [PDF](https://enhamza.github.io/files/An-Alt/lectures-alt.pdf) |
+
+---
+
+
 # Bases d'analyse convexe et optimisation (3MMBACO)
 
 Ce cours présente une introduction à l'analyse convexe et à l'optimisation, à destination des élèves ingénieurs de l'Ensimag (1A).  
@@ -67,45 +105,7 @@ Les notes complètes du cours sont disponibles ici : [Bases d'analyse convexe et
 - V. Soltan — *Lectures on Convex Sets*.
 
 ---
-
-
-# Analyse pour l'ingénieur
-**Ensimag — Alternance 1ère année**
-
-Ce cours d’Analyse pour l’ingénieur est destiné aux élèves de l’Ensimag en alternance.  
-Les notes seront mises à jour progressivement. N’hésitez pas à signaler les coquilles.
-
-## 📘 Notes de cours
-
-| Séance | Thème | Document |
-|-------|-------|----------|
-| Cours | Espaces vectoriels et analyse matricielle | [PDF](https://enhamza.github.io/files/An-Alt/lectures-alt.pdf) |
-
-
-
----
-# Optimisation numérique (4MMON6)
-**Ensimag — 2A MMIS / IF / G2**
-
-## 📝 Travaux dirigés
-
-| TD | Thème | Document |
-|----|-------|----------|
-| TD0 | Introduction et rappels | [PDF](https://enhamza.github.io/files/optim2A/TD0_ON.pdf) |
-| TD1 | Ensembles convexes | [PDF](https://enhamza.github.io/files/optim2A/TD1_ON.pdf) |
-| TD2 | Fonctions convexes | [PDF](https://enhamza.github.io/files/optim2A/TD2_ON.pdf) |
-| TD3 | Optimisation convexe | [PDF](https://enhamza.github.io/files/optim2A/TD3_ON.pdf) |
-
-
-Les notes complètes du cours sont disponibles ici : [Optimisation numérique](https://enhamza.github.io/files/optim2A/index.html).
-
-** Quelques références :**
-- J.-B. Hiriart-Urruty & C. Lemaréchal — *Fundamentals of Convex Analysis*
-- S. Boyd & L. Vandenberghe — *Convex Optimization*
-- A. Beck — *First-Order Methods in Optimization*
-
----
-*Dernière mise à jour : *(04/03/2026)
+*Dernière mise à jour : *(13/03/2026)
 
 
  
