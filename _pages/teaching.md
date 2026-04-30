@@ -28,6 +28,8 @@ author_profile: true
 | TD1 | Ensembles convexes | [PDF](https://enhamza.github.io/files/optim2A/TD1_ON.pdf) |
 | TD2 | Fonctions convexes | [PDF](https://enhamza.github.io/files/optim2A/TD2_ON.pdf) |
 | TD3 | Optimisation convexe | [PDF](https://enhamza.github.io/files/optim2A/TD3_ON.pdf) |
+| TD4 | KKT - Calcul sous-différentiel | [PDF](https://enhamza.github.io/files/optim2A/TD4_ON.pdf) |
+
 
 
 Les notes complètes du cours sont disponibles ici : [Optimisation numérique](https://enhamza.github.io/files/optim2A/index.html).
