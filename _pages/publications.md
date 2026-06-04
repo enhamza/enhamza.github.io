@@ -14,7 +14,9 @@ author_profile: true
 * Robust risk management via multi-marginal optimal transport, with [Q.Mérigot](http://quentin.mrgt.fr/), [L.Nenna](https://lucanenna.github.io/) and [B.Pass](https://sites.ualberta.ca/~pass/). **J. Optim. Theory Appl.** [arXiv Link](https://arxiv.org/abs/2211.07694)-[Journal Link](https://link.springer.com/article/10.1007/s10957-024-02438-x).
 * [Prediction-Correction Pedestrian Flow by Means of Minimum Flow Problem](https://enhamza.github.io/files/papiers/cm_Final.pdf), with [N.Igbida](https://www.unilim.fr/pages_perso/noureddine.igbida/) and G.Jradi. **Mathematical Models and Methods in Applied Sciences (M3AS).** [HAL Link](https://hal.science/hal-03999852)-[arXiv Link](https://arxiv.org/abs/2302.11315)-[Journal Link](https://doi.org/10.1142/S0218202524500052).
 * Stochastic Monotone Inclusion with Closed Loop Distributions, with [J.Fadili](https://fadili.users.greyc.fr) and H.Attouch. **Evolution Equations and Control Theory.** [HAL Link](https://hal.science/hal-04652333)-[arXiv Link](https://arxiv.org/abs/2407.13868)-[Journal Link](https://www.aimsciences.org/article/doi/10.3934/eect.2025022).
-* A coupled prediction-correction Hughes' model for congested crowd motion, with [N.Igbida](https://www.unilim.fr/pages_perso/noureddine.igbida/), Ghadir Jradi, [José Miguel Urbano](https://cemse.kaust.edu.sa/profiles/miguel-urbano). [HAL Link](https://hal.science/view/index/docid/5640433)-[arXiv Link](https://arxiv.org/abs/2606.02899). 2026. Submitted.
+* A coupled prediction-correction Hughes' model for congested crowd motion, with [N.Igbida](https://www.unilim.fr/pages_perso/noureddine.igbida/), Ghadir Jradi, [José Miguel Urbano](https://cemse.kaust.edu.sa/profiles/miguel-urbano). [HAL Link](https://hal.science/view/index/docid/5640433)-[arXiv Link](https://arxiv.org/abs/2606.02899). 2026, Submitted.
+* Second order splitting dynamics for stochastic monotone inclusions with closed loop distribution, with W.Si and [J.Fadili](https://fadili.users.greyc.fr). 2026, Submitted.
+
 
 Ongoing works
 ==============
