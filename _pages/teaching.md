@@ -11,6 +11,16 @@ author_profile: true
   <img src="https://enhamza.github.io/images/Ensimag.png" alt="Ensimag" style="height:60px; width:80px; object-fit: contain;" />
 </div>
 
+2026/2027:
+----------
+
+## Refresher in Matrix Analysis and Numerical Optimization
+**Master 2 MSIAM / MOSIG / Data Science**, Univ. Grenoble Alpes — *(EN)*  
+Matrix Analysis and Optimization.
+
+| Ressource | Lien |
+|----------|------|
+| Practical session | https://github.com/enhamza/refresher |
 
 
 2025/2026:
