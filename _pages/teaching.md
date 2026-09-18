@@ -20,7 +20,7 @@ Matrix Analysis and Optimization.
 
 | Ressource | Lien |
 |----------|------|
-| Practical session | https://github.com/enhamza/refresher |
+| Practical session | [Link](https://github.com/enhamza/refresher) |
 
 
 2025/2026:
