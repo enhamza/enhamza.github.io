@@ -26,10 +26,10 @@ Short refresher in matrix analysis and optimization for students with different 
 
 | Resource | Link |
 |----------|------|
-| Practical session | [GitHub repository](https://github.com/enhamza/refresher) |
 | Lecture notes | [PDF](https://enhamza.github.io/files/Refresher/refresher_lecture_notes.pdf) |
 | Exercises | [PDF](https://enhamza.github.io/files/Refresher/Tutorial.pdf) |
-<!-- | Python notebooks | [Python_Basics](...) · [Python102_Numpy_and_co](...) | -->
+| Practical session | [Notebook](https://github.com/enhamza/refresher/blob/main/Practical_Session_Optimization.ipynb) |
+| Python notebooks | Basics: [GitHub](https://github.com/enhamza/refresher/blob/main/python/Python_Basics.ipynb) — NumPy & co: [GitHub](https://github.com/enhamza/refresher/blob/main/python/Python102_Numpy_and_co.ipynb) |
 
 **Useful references:**
 - Deisenroth, Faisal & Ong — *Mathematics for Machine Learning*
