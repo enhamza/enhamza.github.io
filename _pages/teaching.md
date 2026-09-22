@@ -2,7 +2,7 @@
 layout: archive
 title: "Teaching"
 permalink: /teaching/
-author_profile: true
+author_profile: trueæ
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
@@ -39,6 +39,23 @@ Short refresher in matrix analysis and optimization for students with different 
 
 <!-- Si BACO / Optimisation numérique sont reconduits cette année,
      déplacer leur bloc depuis les archives 2025/2026 jusqu'ici. -->
+
+---
+
+---
+
+## Bases d'analyse convexe et optimisation (3MMBACO)
+**Ensimag — 1A**
+
+Introduction à l'analyse convexe et à l'optimisation. Des coquilles peuvent subsister — n'hésitez pas à les signaler.
+Les notes complètes du cours sont disponibles ici : [Bases d'analyse convexe et optimisation](https://enhamza.github.io/files/BACO/index.html).
+
+### 📝 Travaux dirigés
+
+| TD | Thème | Document |
+|----|-------|----------|
+| TD1 | Introduction et rappels | [PDF](https://enhamza.github.io/files/BACO/2026-2027/TD1.pdf) |
+| TD2 | Ensembles convexes | [PDF](https://enhamza.github.io/files/BACO/2026-2027/TD2.pdf) |
 
 ---
 
