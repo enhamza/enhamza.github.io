@@ -15,10 +15,10 @@ author_profile: trueæ
 
 # 2026/2027
 
-## Refresher in Matrix Analysis and Numerical Optimization
+## Refresher on Matrix Analysis and Optimization
 **Master 2 MSIAM / MOSIG / Data Science** — Univ. Grenoble Alpes — *(EN)*
 
-Short refresher in matrix analysis and optimization for students with different backgrounds, plus a Python session.
+Short refresher on matrix analysis and optimization for students with different backgrounds, plus a Python session.
 
 | Resource | Link |
 |----------|------|
