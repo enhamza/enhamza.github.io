@@ -90,23 +90,23 @@ Les notes complètes du cours sont disponibles ici : [Bases d'analyse convexe et
 
 | Séance | Thème | Document |
 |--------|-------|----------|
-| Cours 1 | Introduction et rappels | [PDF](https://enhamza.github.io/files/BACO/chapitre1.pdf) |
-| Cours 2 | Ensembles convexes | [PDF](https://enhamza.github.io/files/BACO/chapitre2.pdf) |
-| Cours 3 | Fonctions convexes | [PDF](https://enhamza.github.io/files/BACO/chapitre3.pdf) |
-| Cours 4 | Introduction à l'optimisation convexe | [PDF](https://enhamza.github.io/files/BACO/chapitre4.pdf) |
-| Cours 5 | Algorithmes d'optimisation | [PDF](https://enhamza.github.io/files/BACO/chapitre5.pdf) |
+| Cours 1 | Introduction et rappels | [PDF](https://enhamza.github.io/files/BACO/2025-2026/chapitre1.pdf) |
+| Cours 2 | Ensembles convexes | [PDF](https://enhamza.github.io/files/BACO/2025-2026/chapitre2.pdf) |
+| Cours 3 | Fonctions convexes | [PDF](https://enhamza.github.io/files/BACO/2025-2026/chapitre3.pdf) |
+| Cours 4 | Introduction à l'optimisation convexe | [PDF](https://enhamza.github.io/files/BACO/2025-2026/chapitre4.pdf) |
+| Cours 5 | Algorithmes d'optimisation | [PDF](https://enhamza.github.io/files/BACO/2025-2026/chapitre5.pdf) |
 
 ### 📝 Travaux dirigés
 
 | TD | Thème | Document |
 |----|-------|----------|
-| TD1 | Introduction et rappels | [PDF](https://enhamza.github.io/files/BACO/TD1.pdf) |
-| TD2 | Ensembles convexes | [PDF](https://enhamza.github.io/files/BACO/TD2.pdf) |
-| TD2' | Ensembles convexes (complément) | [PDF](https://enhamza.github.io/files/BACO/TD2bis.pdf) |
-| TD3 | Fonctions convexes | [PDF](https://enhamza.github.io/files/BACO/TD3.pdf) |
-| TD3' | Fonctions convexes (complément) | [PDF](https://enhamza.github.io/files/BACO/TD3bis.pdf) |
-| TD4 | Optimisation convexe | [PDF](https://enhamza.github.io/files/BACO/TD4.pdf) |
-| TD5 | Méthode du gradient | [PDF](https://enhamza.github.io/files/BACO/TD5.pdf) |
+| TD1 | Introduction et rappels | [PDF](https://enhamza.github.io/files/BACO/2025-2026/TD1.pdf) |
+| TD2 | Ensembles convexes | [PDF](https://enhamza.github.io/files/BACO/2025-2026/TD2.pdf) |
+| TD2' | Ensembles convexes (complément) | [PDF](https://enhamza.github.io/files/BACO/2025-2026/TD2bis.pdf) |
+| TD3 | Fonctions convexes | [PDF](https://enhamza.github.io/files/BACO/2025-2026/TD3.pdf) |
+| TD3' | Fonctions convexes (complément) | [PDF](https://enhamza.github.io/files/BACO/2025-2026/TD3bis.pdf) |
+| TD4 | Optimisation convexe | [PDF](https://enhamza.github.io/files/BACO/2025-2026/TD4.pdf) |
+| TD5 | Méthode du gradient | [PDF](https://enhamza.github.io/files/BACO/2025-2026/TD5.pdf) |
 
 ### 💻 Travaux pratiques
 
