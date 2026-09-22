@@ -11,11 +11,7 @@ author_profile: trueæ
   <img src="https://enhamza.github.io/images/Ensimag.png" alt="Ensimag" style="height:60px; width:80px; object-fit: contain;" />
 </div>
 
-<!-- =========================================================
-     ANNÉE EN COURS
-     Chaque rentrée : déplacer ce bloc dans les archives (dans un
-     <details>), puis créer le nouveau bloc de l'année.
-     ========================================================= -->
+
 
 # 2026/2027
 
@@ -39,8 +35,6 @@ Short refresher in matrix analysis and optimization for students with different 
 
 <!-- Si BACO / Optimisation numérique sont reconduits cette année,
      déplacer leur bloc depuis les archives 2025/2026 jusqu'ici. -->
-
----
 
 ---
 
