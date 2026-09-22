@@ -22,7 +22,7 @@ Short refresher in matrix analysis and optimization for students with different 
 
 | Resource | Link |
 |----------|------|
-| Lecture notes | [PDF](https://enhamza.github.io/files/Refresher/refresher_lecture_notes.pdf) |
+| Lecture notes | [Lecture notes](https://enhamza.github.io/files/Refresher/index.html) |
 | Exercises | [PDF](https://enhamza.github.io/files/Refresher/Tutorial.pdf) |
 | Practical session | [Notebook](https://github.com/enhamza/refresher/blob/main/Practical_Session_Optimization.ipynb) |
 | Python notebooks | Basics: [GitHub](https://github.com/enhamza/refresher/blob/main/python/Python_Basics.ipynb) — NumPy & co: [GitHub](https://github.com/enhamza/refresher/blob/main/python/Python102_Numpy_and_co.ipynb) |
