@@ -44,6 +44,14 @@ Short refresher on matrix analysis and optimization for students with different 
 Introduction à l'analyse convexe et à l'optimisation. Des coquilles peuvent subsister — n'hésitez pas à les signaler.
 Les notes complètes du cours sont disponibles ici : [Bases d'analyse convexe et optimisation](https://enhamza.github.io/files/BACO/index.html).
 
+### 📘 Notes de cours
+
+| Séance | Thème | Document |
+|--------|-------|----------|
+| Cours 1 | Introduction et rappels | [PDF](https://enhamza.github.io/files/BACO/2026-2027/ch0.pdf) |
+| Cours 2 | Ensembles convexes | [PDF](https://enhamza.github.io/files/BACO/2026-2027/ch1-ens-cvx.pdf) |
+
+
 ### 📝 Travaux dirigés
 
 | TD | Thème | Document |
