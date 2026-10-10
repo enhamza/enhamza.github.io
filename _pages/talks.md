@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-Talks:
+Selected talks:
 =====
 * Journées annuelles du [GDR MOA](https://gdrmoa.math.cnrs.fr/activites/journees-annuelles-2019-gdr-moa/), Rennes, 2019.
 * Workshop des doctorant [XLIM](https://www.xlim.fr), 2019.
@@ -23,6 +23,7 @@ Talks:
 * Séminaire [DAO](https://sites.google.com/view/gorgeous-optim/program), Grenoble, 9 December, 2024.
 * [CIMPA](https://cimpa.este.ovh/), Essaouira, Morocco, 21-31 May, 2025.
 * Workshop on Optimization, Dynamics and Convex Analysis - [WODCA](https://sites.google.com/view/wodca2025/home), Aveiro, Portugal, 11-14 June, 2025.
+* The 15th AIMS Conference in Athens: [New Trends in Crowd Dynamics and Traffic Flow](https://aimsconference.org/conferences/2026/index.html), Athens, Greece, 6-10 July, 2026.
   
 Upcoming Talks:
 ===============
