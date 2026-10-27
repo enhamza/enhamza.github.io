@@ -50,6 +50,7 @@ Les notes complètes du cours sont disponibles ici : [Bases d'analyse convexe et
 |--------|-------|----------|
 | Cours 0 | Introduction et rappels | [PDF](https://enhamza.github.io/files/BACO/2026-2027/ch0.pdf) |
 | Cours 1 | Ensembles convexes | [PDF](https://enhamza.github.io/files/BACO/2026-2027/ch1-ens-cvx.pdf) |
+| Cours 2 | Fonctions convexes | [PDF](https://enhamza.github.io/files/BACO/2026-2027/ch2-fct-cvx.pdf) |
 
 
 
