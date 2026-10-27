@@ -60,6 +60,7 @@ Les notes complètes du cours sont disponibles ici : [Bases d'analyse convexe et
 | TD1 | Introduction et rappels | [PDF](https://enhamza.github.io/files/BACO/2026-2027/TD1.pdf) |
 | TD2 | Ensembles convexes | [PDF](https://enhamza.github.io/files/BACO/2026-2027/TD2.pdf) |
 | TD3 | Fonctions convexes | [PDF](https://enhamza.github.io/files/BACO/2026-2027/TD3.pdf) |
+| TD4 | Optimisation convexe | [PDF](https://enhamza.github.io/files/BACO/2026-2027/TD3.pdf) |
 
 
 ---
